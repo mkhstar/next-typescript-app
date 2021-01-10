@@ -9,7 +9,7 @@ const Home: FC = () => {
         <title>Home</title>
       </Head>
 
-      <h1>The Next Typescript App</h1>
+      <h1 className="text-gray-400">The Next Typescript App</h1>
     </div>
   );
 };
